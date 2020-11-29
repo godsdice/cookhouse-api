@@ -1,6 +1,6 @@
 {
   "name": "cookhouse-api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Backend for cookhouse recipe manager application",
   "main": "src/server.ts",
   "author": "Chris Coffey <chris@pixelmixr.com>",
